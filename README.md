@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TianLuan93
-- 👀 I’m interested in machine learning, computing and computer vision.
+- 👀 I’m interested in machine learning, computing, computer vision and AR.
 - 🌱 I’m currently learning SLAM, AR, deep learning and neural network.
 - 📫 How to reach me fred.tian.luan@gmail.com
 
