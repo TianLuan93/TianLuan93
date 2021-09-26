@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TianLuan93
 - 👀 I’m interested in machine learning, computing and computer vision.
-- 🌱 I’m currently learning deep learning and neural network.
+- 🌱 I’m currently learning AR, deep learning and neural network.
 - 📫 How to reach me fred.tian.luan@gmail.com
 
 <!---
